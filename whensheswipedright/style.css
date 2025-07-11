@@ -62,7 +62,7 @@ body {
     object-fit: contain;
     opacity: 1; /* Make video fully visible */
     z-index: 1;
-    background: #000; /* fallback background */
+    background: corn silk; /* fallback background */
 }
 
 
